@@ -27,7 +27,7 @@ Kichappan is a Node.js application for managing connections to the WhatsApp netw
 
 ## Dependencies
 - **Node.js**: A JavaScript runtime environment that executes JavaScript code outside a web browser.
-- **Baileys library** (`@adiwajshing/baileys` and `@whiskeysockets/baileys`): A Node.js library for interacting with the WhatsApp network, providing functionalities for authentication, sending and receiving messages, and more.
+- **Baileys library** (`@whiskeysockets/baileys`): A Node.js library for interacting with the WhatsApp network, providing functionalities for authentication, sending and receiving messages, and more.
 - **Express**: A web application framework for Node.js, used for building web applications and APIs.
 - **qrcode-terminal**: A library for displaying QR codes in the terminal, commonly used for authentication purposes in WhatsApp applications.
 
